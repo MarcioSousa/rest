@@ -1,0 +1,6 @@
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\bin\Release\Control.dll.config
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\bin\Release\Control.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\bin\Release\Control.pdb
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\obj\Release\Control.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\obj\Release\Control.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Control\obj\Release\Control.pdb

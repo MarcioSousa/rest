@@ -1,0 +1,34 @@
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\Negocios.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\Negocios.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\AcessoBancoDados.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\Npgsql.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Release\Negocios.dll
+C:\Users\marci\Documents\Visual Studio 2015\Projects\Restaurante\Restaurante\Negocios\obj\Release\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\Negocios.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\Negocios.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\AcessoBancoDados.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\Npgsql.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\AcessoBancoDados.dll.config
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Release\Negocios.dll
+C:\Users\Marcio Sousa\Documents\Visual Studio 2017\Projetos\Restaurante\Negocios\obj\Release\Negocios.pdb
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Negocios.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Negocios.pdb
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Control.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Model.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Control.pdb
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Control.dll.config
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\bin\Release\Model.pdb
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\obj\Release\Negocios.csprojAssemblyReference.cache
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\obj\Release\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\obj\Release\Negocios.csproj.CopyComplete
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\obj\Release\Negocios.dll
+C:\Users\Marcio Sousa\source\repos\Restaurante\Negocios\obj\Release\Negocios.pdb
